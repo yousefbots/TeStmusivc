@@ -369,7 +369,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Yousef ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`*play | Last Music`,"http://twitch.tv/TeSt")
+client.user.setGame(`*play | TeSt`,"http://twitch.tv/TeSt")
 client.user.setStatus("dnd")
 });
 
